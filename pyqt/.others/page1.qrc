@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>page2.webp</file>
+    <file>xiaohui.jpg</file>
+  </qresource>
+</RCC>

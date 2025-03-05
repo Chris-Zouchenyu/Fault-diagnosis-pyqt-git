@@ -1,0 +1,153 @@
+{
+  "header": {
+    "comment": "eric tasks file for project pyqt",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2025-03-05, 21:24:55"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1741164103.9125142,
+      "type": 2,
+      "uid": "{22df9cac-1d63-490d-bd22-e2a3974afd66}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\Ui_window1.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1741164103.9135115,
+      "type": 2,
+      "uid": "{f5f27b5d-d6a7-40d2-98e5-742a9ae1ba7c}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\Ui_window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 33,
+      "completed": false,
+      "created": 1741164103.9145117,
+      "type": 1,
+      "uid": "{785aa36e-5b83-4b70-8392-f7c080b21e45}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window1.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 52,
+      "completed": false,
+      "created": 1741164103.9155114,
+      "type": 1,
+      "uid": "{596cb81a-5695-4866-8ca5-d3280b3433c6}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window1.py"
+    },
+    {
+      "summary": "TODO: not implemented yeta",
+      "description": "",
+      "priority": 1,
+      "lineno": 63,
+      "completed": false,
+      "created": 1741164103.9165149,
+      "type": 1,
+      "uid": "{ee2b1dd2-3c5e-48b6-97e2-0596e7afc5dc}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window1.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 296,
+      "completed": false,
+      "created": 1741164103.9175117,
+      "type": 1,
+      "uid": "{ca0372cc-7b45-470a-83d9-9b0aab9adfda}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 311,
+      "completed": false,
+      "created": 1741164103.9185226,
+      "type": 1,
+      "uid": "{5abd8450-f183-45ad-b91f-4456c5e61479}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 318,
+      "completed": false,
+      "created": 1741164103.9205117,
+      "type": 1,
+      "uid": "{36e6a14e-4687-4ec7-a1d7-c1c573b6e793}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 325,
+      "completed": false,
+      "created": 1741164103.9215126,
+      "type": 1,
+      "uid": "{ddb8c731-0f04-4d40-84d7-c1194961a766}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 332,
+      "completed": false,
+      "created": 1741164103.9225235,
+      "type": 1,
+      "uid": "{c61ca4eb-bb57-4f80-aff7-f15fd99e2c97}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 357,
+      "completed": false,
+      "created": 1741164103.9235227,
+      "type": 1,
+      "uid": "{803c6648-e8ee-4fd1-855a-cec978fec571}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Fault diagnosis\\pyqt\\window2.py"
+    }
+  ]
+}
