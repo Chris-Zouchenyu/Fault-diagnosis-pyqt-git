@@ -1,6 +1,11 @@
 # Fault-diagnosis-pyqt-git
 A fault diagnosis system for bearing equipment based on PyQt5 and deep learning, integrating model training, data processing, and visual diagnosis.  
-（基于 PyQt5 和深度学习的轴承设备故障诊断系统，融合模型训练、数据处理、可视化诊断能力）  
+（基于 PyQt5 和深度学习的轴承设备故障诊断系统，融合模型训练、数据处理、可视化诊断能力） 
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org/)  
+
 Recently, I learned a pyqt5 plugin, which is a very suitable plugin for GUI development. This is a fault diagnosis system that I developed using pyqt.  
 (最近，我学习了一个名为pyqt5的插件，它非常适合用于图形用户界面（GUI）开发。这是我使用pyqt开发的一个故障诊断系统。) 
 
@@ -8,11 +13,9 @@ HOW TO LEARN PYTQ+ERIC6:
 https://www.bilibili.com/video/BV1L54y157P1?spm_id_from=333.788.videopod.episodes&vd_source=227625ed7ba6b0cfb5a1330e886cac76&p=27
 
 I have beautified the README. The source code is actually quite simple.  
-(README我进行了美化处理 源代码其实很简单)
+(README我进行了美化处理 源代码其实很简单)  
+Created by Zouchenyu from Xi`an Jiaotong university.  
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org/)
 
 ## 📋 Overview
 该仓库是一个基于 **PyQt5** 开发的故障诊断系统，聚焦于轴承类设备故障诊断任务，融合深度学习模型训练、GUI 交互、数据处理等核心能力，是集**数据加载、模型训练、故障诊断可视化**于一体的完整桌面应用。
@@ -102,4 +105,5 @@ Fault-diagnosis-pyqt-git/
 pip install PyQt5 PyQt5-tools numpy pandas scipy scikit-learn torch torchkeras matplotlib
 ```
 ## 📄 License
-This project is for learning and research purposes only.
+This project is for learning and research purposes only.  
+Created by Zouchenyu from Xi`an Jiaotong university
