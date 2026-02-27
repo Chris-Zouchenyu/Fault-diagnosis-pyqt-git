@@ -2,6 +2,8 @@
 A fault diagnosis system for bearing equipment based on PyQt5 and deep learning, integrating model training, data processing, and visual diagnosis.  
 （基于 PyQt5 和深度学习的轴承设备故障诊断系统，融合模型训练、数据处理、可视化诊断能力）  
 Recently, I learned a pyqt5 plugin, which is a very suitable plugin for GUI development. This is a fault diagnosis system that I developed using pyqt.  
+(最近，我学习了一个名为pyqt5的插件，它非常适合用于图形用户界面（GUI）开发。这是我使用pyqt开发的一个故障诊断系统。) 
+
 HOW TO LEARN PYTQ+ERIC6:  
 https://www.bilibili.com/video/BV1L54y157P1?spm_id_from=333.788.videopod.episodes&vd_source=227625ed7ba6b0cfb5a1330e886cac76&p=27
 
