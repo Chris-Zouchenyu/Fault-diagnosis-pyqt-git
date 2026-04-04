@@ -15,7 +15,7 @@ https://www.bilibili.com/video/BV1L54y157P1?spm_id_from=333.788.videopod.episode
 I have beautified the README. The source code is actually quite simple.  
 (README我进行了美化处理 源代码其实很简单)  
 Created by Zouchenyu from Xi`an Jiaotong university.  
-（由西安交通大学研究生邹晨宇 开发）
+**（由西安交通大学研究生 邹晨宇 开发）**
 
 ## 📋 Overview
 该仓库是一个基于 **PyQt5** 开发的故障诊断系统，聚焦于轴承类设备故障诊断任务，融合深度学习模型训练、GUI 交互、数据处理等核心能力，是集**数据加载、模型训练、故障诊断可视化**于一体的完整桌面应用。
